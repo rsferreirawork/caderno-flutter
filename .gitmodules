@@ -4,3 +4,6 @@
 [submodule "livro-casadocodigo-iniciandocomflutterframework"]
 	path = livro-casadocodigo-iniciandocomflutterframework
 	url = https://github.com/rsferreirawork/livro-casadocodigo-iniciandocomflutterframework.git
+[submodule "curso_alura_flutter_fundamentos"]
+	path = curso_alura_flutter_fundamentos
+	url = https://github.com/rsferreirawork/curso_alura_flutter_fundamentos.git
